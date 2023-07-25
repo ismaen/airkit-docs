@@ -1,0 +1,10 @@
+With Airkit, you have fine control over the domain associated with every app you publish. It's easy to [connect your domains](https://support.airkit.com/docs/connecting-your-domain-to-airkit) into your broader [Airkit Console](https://support.airkit.com/docs/console), and from there, you can link each individual app to the domain that most suits it. There's no limit to the number of domains you can integrate with your Console. Whether you own multiple brands under different domains, or you want to use an entirely separate domain to avoid XSRF vulnerabilities, Airkit provides the functionality to support you. Not only will you have the tools to intuitively configure the domain or domains associated with your apps, you'll also be able to customize the path (that is, everything in a URL after the ".com" part).
+
+
+Additionally, Airkit provides a streamlined way to [configure your Domain](https://support.airkit.com/docs/configuring-a-domain-for-sending-email) so that you can [send emails](https://support.airkit.com/docs/sending-email-from-airkit) through it, all as part of a user's journey through your app. Automatically send an order confirmation email as soon as a user presses a button, or [set a timer](https://support.airkit.com/docs/journey-specific-timers-and-reminders) to schedule and send future reminders, newsletters, or updates. By directly sending emails from your applications, you'll be able to standardize your customer experience even after they've closed your app: follow up with every user automatically, and nothing and no one will slip through the cracks.
+
+
+Perhaps most importantly, Airkit can facilitate all of this through your existing domains. Whatever branding you've established, email addresses you sent notifications from, or URLs you've linked users to, you can continue using them through Airkit. Your apps are your own – Airkit just provides the tools to build them.
+
+
+![2021-05-06_16-40-40__2_.gif](./assets_v1714/custom-domains-v1714-0).gif)

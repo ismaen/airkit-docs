@@ -1,0 +1,14 @@
+Welcome to Airscript, a SAAS programming language built exclusively by Airkit, used to transform data across customer journeys. Airscript is simple, powerful, and specialized for data manipulation: it's by strategically combining Airscript with input from app users (or other [external sources](https://support.airkit.com/docs/connecting-to-external-systems), such as an external API) that you control the order, flow, and nature of the interactions between your Airkit apps and the outside world. Most commonly, this is done by [defining a variable](https://support.airkit.com/reference/the-set-variable-action) with Airscript or by using Airscript to access or modify data via the [Transform Data Operation](https://support.airkit.com/reference/the-transform-data-operation), both of which parse any input in Airscript by default.
+
+
+### Airscript makes extensive use of functions developers are already familiar with.
+
+
+Like most programming languages, Airscript makes extensive use of functions, comparison operators, and schemas of data storage (notably [Lists](https://support.airkit.com/reference/the-list-data-type) and [Objects](https://support.airkit.com/docs/airdata-app-objects), the later of which is imperatively intertwined with [AirData](https://support.airkit.com/docs/airdata-querying-capabilities), Airkit's built-in system of record). A closer look into how Airscript combines all these elements can be found [here](https://support.airkit.com/docs/airscript-quick-start), and examples of how they might be combined in practice can be found [here](https://support.airkit.com/docs/airscript-examples) and [here](https://support.airkit.com/docs/advanced-airscript-examples).
+
+
+### Airscript makes it easy to manipulate data and interface with outside sources.
+
+
+Most of [Airscript's functions](https://support.airkit.com/docs/advanced-airscript-examples) are tools of data manipulation – ways to [modify a date and time](https://support.airkit.com/reference/add_to_datetime), for instance, or [add a list of numbers together](https://support.airkit.com/reference/sum) – but Airscript also provides a means to parse external data as well re-format manipulated data so that other systems can interpret it. As an example, Airscript makes it easy to translate packets of information both [to](https://support.airkit.com/reference/to_json) and [from](https://support.airkit.com/reference/from_json) JSON, one of the most common formats for transmitting data across RESTful APIs and web applications. Airscript is what works under the hood to ensure your Airkit apps function as intended, and it's a big part of how your everything built in Airkit interfaces with the outside world.
+#### Sign up for Airkit's free trial [here](https://www.airkit.com/free-trial/), and gain access to Airscript as well as the plethora of other tools Airkit provides to streamline the process of building apps and making the most of your data!
