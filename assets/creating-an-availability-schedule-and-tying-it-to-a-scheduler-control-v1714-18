@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Error 404 (Not Found)</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <style>
+            html {
+                color: #888;
+                display: table;
+                font-family: sans-serif;
+                height: 100%;
+                width: 100%;
+            }
+            body {
+                margin: 50px;
+            }
+            h1 {
+                color: #ec0047;
+                font-size: 1.5em;
+                font-weight: 200;
+                margin: 0;
+                width: 320px;
+            }
+            h5 {
+                font-size: 1em;
+                margin: 0;
+                font-weight: 500;
+                width: 320px;
+            }
+            a {
+                color: #ec0047;
+            }
+            p {
+                margin: 0;
+                font-size: 0.75em;
+                width: 320px;
+            }
+            .request-id {
+                margin: 0;
+                font-size: 0.75em;
+                margin-top: 20px;
+            }
+            .extra {
+                margin: 0;
+                font-size: 1em;
+                margin-top: 20px;
+                font-family: monospace;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>
+            <b id="error-code">404.</b>
+            <span id="error-description">Page Not Found.</span>
+        </h1>
+        <br />
+        <h5 id="error-msg">Sorry, but the page you were trying to view does not exist.</h5>
+        <br />
+        <p>Contact <a href="mailto:support@airkit.com">support@airkit.com</a> if you need assistance.</p>
+        <div class="request-id" id="request-id"></div>
+        <div class="extra" id="extra"></div>
+    </body>
+</html>
