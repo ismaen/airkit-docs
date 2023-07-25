@@ -66,7 +66,7 @@ Canvas Links can be sent via reminder texts, prompting users to return to a half
 
 A **Journey** starts whenever a user begins engaging with or being engaged by an Airkit app; this is when they are automatically assigned a unique ID as an identifier. You can start a **Journey** upon a potential user clicking a link, sending a text message, or calling a phone number. A **Journey** might also start when an API is triggered. Choosing a way for users to begin their **Journey** is one of the first things you do when creating an app in Airkit:
 
-<img src="./assets_v1714/journeys-v1714-0.png" alt="organizing info" style="max-width: 270px; width:100%"/>
+<img src="./assets/journeys-v1714-0.png" alt="organizing info" style="max-width: 270px; width:100%"/>
 
 A single app might allow users to begin their **Journeys** through it via multiple channels. While each individual **Journey** can only begin once, different users accessing the app might begin their interactions with it – and thus their **Journeys** – in different ways. An app might, for example, allow users to begin their **Journeys** via either sending a text or making a phone call. 
 
