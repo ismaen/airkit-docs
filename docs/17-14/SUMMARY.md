@@ -1,13 +1,18 @@
 # Table of contents
 
+* [Welcome](README.md)
+
 ## Getting Started
+
 * [Quickstart](quickstart.md)
 * [Building Your First App](building-your-first-app.md)
   * [Connecting Your Contact Form To Salesforce](connecting-your-contact-form-to-salesforce.md)
   * [Building Your First App Appendix](building-your-first-app-appendix.md)
 * [Terminology](terminology.md)
 * [Airkit Flight School](airkit-flight-school.md)
+
 ## Concepts
+
 * [Journeys](journeys.md)
 * [Actors](actors.md)
 * [Variable Scopes](variable-scopes.md)
@@ -15,6 +20,7 @@
 * [Initializing The Actor](initializing-the-actor.md)
 
 ## Studio
+
 * [Studio](studio.md)
 * [Builder Bar](builder-bar.md)
   * [Journey Builder](journey-builder.md)
@@ -30,7 +36,9 @@
   * [Portal Builder](portal-builder.md)
 * [App Preview](app-preview.md)
 * [Action Builder](action-builder.md)
+
 ## Architecture
+
 * [Console](console.md)
 * [Web Flows](web-flows.md)
 * [Data Flows](data-flows.md)
